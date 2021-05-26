@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace zadanie2
+namespace Pract2
 {
     class MainClass
     {
